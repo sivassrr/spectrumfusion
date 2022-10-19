@@ -3,4 +3,4 @@ Objective of this page is to spread about the unique solution of managing storag
 
 https://www.ibm.com/products/spectrum-fusion
 
-Watch out this space for tools where we can mirror images and also validate the same.
+Watch out this space for tools where we can mirror images for IBM Spectrum Fusion and also validate the same.
